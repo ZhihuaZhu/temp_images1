@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "道路": "演达大道"
+      },
+      "geometry": {
+        "coordinates": [
+          [114.411, 23.051],
+          [114.416, 23.043],
+          [114.419, 23.038],
+          [114.421, 23.035],
+          [114.423, 23.032],
+          [114.424, 23.03]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
